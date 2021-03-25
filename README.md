@@ -1,6 +1,4 @@
-## 👋 Wahyu Septiadi
-
-Halo! I'm **Wahyu**!
+## Halo! I'm **Wahyu** <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> 
 
 I am someone with experience working on small projects on information technology. Skilled in Android Development especially FrontEnd Development using Java or Kotlin and enthusiastic about UI / UX design. I enjoy working with teams, fast learners and explorers. 
 <br><br>You can find me on [![Twitter][1.1]][1] and [![LinkedIn][2.1]][2]
