@@ -23,4 +23,4 @@ I am someone with experience working on small projects on information technology
 
 <!-- links to your social media accounts -->
 [1]: https://twitter.com/whysptd_
-[2]: https://www.linkedin.com/in/wahyuseptiadi-489584186/
+[2]: https://www.linkedin.com/in/wahyuseptiadi
