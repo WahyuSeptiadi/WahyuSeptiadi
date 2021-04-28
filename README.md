@@ -11,10 +11,10 @@ I am someone with experience working on small projects on information technology
 
 ## 🌱 Github Values
   <a href="https://github.com/WahyuSeptiadi/WahyuSeptiadi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuseptiadi&hide=php,css,html&text_color=C9CACC&title_color=FFFFFF&icon_color=1C68C5&bg_color=0D1117" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuseptiadi&layout=compact&hide=php,css,html&text_color=C9CACC&title_color=FFFFFF&icon_color=1C68C5&bg_color=0D1117" />
   </a>
   <a href="https://github.com/WahyuSeptiadi/WahyuSeptiadi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wahyuseptiadi&show_icons=true&line_height=40&count_private=false&text_color=C9CACC&title_color=FFFFFF&icon_color=1C68C5&bg_color=0D1117" alt="WahyuSeptiadi's GitHub Values" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wahyuseptiadi&show_icons=true&line_height=22&count_private=false&text_color=C9CACC&title_color=FFFFFF&icon_color=1C68C5&bg_color=0D1117" alt="WahyuSeptiadi's GitHub Values" />
   </a>
 
 <!-- icons without padding -->
