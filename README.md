@@ -7,7 +7,8 @@ I am someone with experience working on small projects on information technology
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=1C68C5)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=1C68C5)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=1C68C5)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=1C68C5)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=1C68C5)
+![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=1C68C5)
 
 ## 🌱 Github Values
   <a href="https://github.com/WahyuSeptiadi/WahyuSeptiadi">
