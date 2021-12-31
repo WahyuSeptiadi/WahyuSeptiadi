@@ -17,8 +17,8 @@ I am someone with experience working on small projects on information technology
 </p>
 
 <!-- icons without padding -->
-[1.1]: http://i.imgur.com/wWzX9uB.png (twitter)
-[2.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (linkedIn)
+[1.1]: https://user-images.githubusercontent.com/37952748/147818192-d1894e43-abbc-4d86-8740-2bcdfa8ef3e3.png (twitter)
+[2.1]: https://user-images.githubusercontent.com/37952748/147818193-fb06a530-6c64-4691-9153-57f84532e395.png (linkedIn)
 
 <!-- links to your social media accounts -->
 [1]: https://twitter.com/whysptd_
