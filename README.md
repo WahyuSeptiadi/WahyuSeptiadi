@@ -11,12 +11,10 @@ I am someone with experience working on small projects on information technology
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=1C68C5)
 
 ## 🌱 Github Values
-<a href="https://github.com/WahyuSeptiadi/WahyuSeptiadi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuseptiadi&layout=compact&hide=php,css,html&text_color=C9CACC&title_color=FFFFFF&icon_color=1C68C5&bg_color=0D1117" />
-</a>
-<a href="https://github.com/WahyuSeptiadi/WahyuSeptiadi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wahyuseptiadi&show_icons=true&line_height=20&count_private=false&text_color=C9CACC&title_color=FFFFFF&icon_color=1C68C5&bg_color=0D1117" alt="WahyuSeptiadi's GitHub Values" />
-</a>
+<p>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyuseptiadi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=1C68C5"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyuseptiadi&layout=compact&langs_count=8&theme=dark"/>
+</p>
 
 <!-- icons without padding -->
 [1.1]: http://i.imgur.com/wWzX9uB.png (twitter)
